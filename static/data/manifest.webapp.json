@@ -1,6 +1,6 @@
 {
   "contractVersion": "0.1.0",
-  "generatedAt": "2026-08-14T00:46:14.180Z",
+  "generatedAt": "2026-08-16T21:57:34.469Z",
   "sourceRepository": "hericlibong/inventaire-du-doute",
   "sourceCommit": "ee9335ab0a1ad470f71ab0a6d95745c1d7cce545",
   "sourceDataVersion": "2026-07-01",
@@ -10,5 +10,19 @@
     "concernedRecords": 6081,
     "workFiles": 102
   },
-  "includesArtworkImages": false
+  "exploration": {
+    "file": "exploration.json",
+    "counts": {
+      "categories": 8,
+      "museums": 116,
+      "distinctNotices": 6081,
+      "artistNoticeAssociations": 6238,
+      "noticeCategoryOccurrences": 6082
+    }
+  },
+  "media": {
+    "artworkReproductions": 209,
+    "portraits": 73,
+    "includesBinaryFiles": true
+  }
 }
