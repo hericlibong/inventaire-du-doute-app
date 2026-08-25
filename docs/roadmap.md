@@ -29,8 +29,8 @@
 
 ## Phase 3 — Laboratoire visuel et prototype d'exploration
 
-- [ ] Matérialiser trois systèmes visuels différents à partir des mêmes données réelles, avec une vue générale, une sélection et une adaptation mobile.
-- [ ] Comparer les propositions selon les critères éditoriaux et visuels du projet, puis choisir une direction lors d'un point de contrôle.
+- [x] Matérialiser trois systèmes visuels différents à partir des mêmes données réelles, avec une vue générale, une sélection et une adaptation mobile.
+- [x] Comparer les propositions selon les critères éditoriaux et visuels du projet, puis choisir une direction lors d'un point de contrôle : la Matrice.
 - [ ] Construire un prototype interactif de la direction retenue sur un échantillon représentatif, en mettant en œuvre les cinq gestes d'exploration.
 - [ ] Vérifier l'expérience sur ordinateur et téléphone : clavier, toucher, réversibilité, contenus indisponibles et états significatifs partageables.
 - [ ] Valider le prototype avant son extension au corpus complet et la généralisation du design.
@@ -42,6 +42,7 @@
 - Elles doivent utiliser les mêmes données et montrer les mêmes états.
 - Aucune direction ne sera intégrée à `main` avant validation.
 - L'originalité de la forme, sa cohérence avec un sujet consacré à l'art, sa lisibilité et son fonctionnement mobile sont des critères centraux.
+- Les décisions et les avis successifs du laboratoire sont consignés dans [comparaison-laboratoire-visuel.md](comparaison-laboratoire-visuel.md).
 
 ## Phase 4 - Comparaison et montée en charge
 
